@@ -1,0 +1,4 @@
+100
+patient Roy 10
+BloodPressureSensor sensor1 BloodPressureData1.dataset 120 180
+BloodPressureSensor sensor2 BloodPressureData1.dataset 20 30 40

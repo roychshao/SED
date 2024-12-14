@@ -1,0 +1,5 @@
+notes
+1. 在application context中有internal bean factory
+2. applicationContext#getAutowireCapableBeanFactory是用來initiate在此application context外的beans
+3. applicationContext是interface的原因: 可以更有彈性的建立各種applicationContext
+4. 目前在此package底下沒有找到與ApplicationContextException有直接relation的class/interface, 經查看該interface會在context.support package底下

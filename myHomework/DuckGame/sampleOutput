@@ -1,0 +1,5 @@
+[Behavior Invalid] DecoyDuck can not fly.
+MallardDuck : fly / slient
+RedheadDuck : swim / quack
+RubberDuck : swim / quack
+DecoyDuck : swim / squeak

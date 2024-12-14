@@ -1,0 +1,11 @@
+Duck MallardDuck true
+Duck RedheadDuck true
+Duck RubberDuck false
+Duck DecoyDuck false
+DynamicBehave MallardDuck fly
+DynamicBehave DecoyDuck fly
+StaticBehave RubberDuck quack
+StaticBehave DecoyDuck squeak
+StaticBehave RedheadDuck quack
+DynamicBehave RubberDuck swim
+Display

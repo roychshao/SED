@@ -1,0 +1,64 @@
+Input Error
+Input Error
+[1200] sensor1 fails
+[1640] Hello is in danger! Cause: sensorA 76.0
+[1800] Mark is in danger! Cause: sensor1 200.0
+[1968] Hello is in danger! Cause: sensorA 77.0
+[2296] Hello is in danger! Cause: sensorA 78.0
+[2400] sensor1 fails
+[2624] Hello is in danger! Cause: sensorA 79.0
+[3000] sensor1 fails
+[3600] sensor1 fails
+[4200] sensor1 fails
+[4800] sensor1 fails
+[5248] Hello is in danger! Cause: sensorA 76.0
+[5400] sensor1 fails
+[5576] Hello is in danger! Cause: sensorA 77.0
+[5904] Hello is in danger! Cause: sensorA 78.0
+[6000] sensor1 fails
+patient Mark
+BloodPressureSensor sensor1
+[0] 150.0
+[600] 123.0
+[1200] -1.0
+[1800] 200.0
+[2400] -1.0
+[3000] -1.0
+[3600] -1.0
+[4200] -1.0
+[4800] -1.0
+[5400] -1.0
+[6000] -1.0
+BloodPressureSensor sensor3
+[0] 150.0
+[600] 160.0
+[1200] 170.0
+[1800] 120.0
+[2400] 130.0
+[3000] 140.0
+[3600] 150.0
+[4200] 160.0
+[4800] 170.0
+[5400] 150.0
+[6000] 140.0
+patient Hello
+PulseSensor sensorA
+[0] 71.0
+[328] 72.0
+[656] 73.0
+[984] 74.0
+[1312] 75.0
+[1640] 76.0
+[1968] 77.0
+[2296] 78.0
+[2624] 79.0
+[2952] 71.0
+[3280] 72.0
+[3608] 71.0
+[3936] 72.0
+[4264] 73.0
+[4592] 74.0
+[4920] 75.0
+[5248] 76.0
+[5576] 77.0
+[5904] 78.0
