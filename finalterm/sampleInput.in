@@ -1,0 +1,26 @@
+create Chassis1 1 11
+create Chassis2 2 22
+create Chassis3 3 33
+add bus bus4 4 44 Chassis1
+add floppy floppy5 5 55 Chassis2
+add bus bus6 6 66 Chassis1
+get Chassis1 0
+get Chassis1 1
+get Chassis2 0
+get bus4 0
+get bus4 1
+get Chassis3 0
+print Chassis1
+print Chassis2
+print Chassis3
+print bus4
+print floppy5
+print bus6
+sumOfPowerConsumption Chassis1
+sumOfPowerConsumption Chassis2
+sumOfPowerConsumption Chassis3
+sumOfPowerConsumption bus4
+sumOfAdditionCost Chassis1
+sumOfAdditionCost Chassis2
+sumOfAdditionCost Chassis3
+sumOfAdditionCost bus4
